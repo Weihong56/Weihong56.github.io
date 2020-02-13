@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "I'm Wei-Hong. Welcome to my website!"
   location         : "Seattle/WA"
-  employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "http://mamslab.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "cli2394cli@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
