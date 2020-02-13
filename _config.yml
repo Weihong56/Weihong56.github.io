@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei-Hong / Portfolio"
+title                    : "Wei-Hong / Personal Website"
 title_separator          : "-"
 name                     : &name "Wei-Hong Li"
 description              : &description "Master's student in mechanical engineerign at University of Washington"
-url                      : "https://weihong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://weihong56.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weihong.github.io"
+repository               : "weihong56.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "weihong56"
   google_plus      :
   keybase          :
   instagram        :
