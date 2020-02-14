@@ -11,43 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, National Taiwan University, Jan, 2015
+* M.S. in Mechanical Engineering, University of University, Dec, 2019
+* Exchange Program in School of Automotive Studies , Ton-Ji University, Jan, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Researcher (Mar, 2018 - Present)
+  * University of Washington
+  * Duties included: Manufacturing and fatigue testing on composites 
+  * Supervisor: Professor Marco Salviato
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Grader (Sep, 2019 - Dec, 2019)
+  * University of Washington
+  * Duties included: Evaluated homework and exams for Mechanics of Composite Materials class
+  * Supervisor: Professor Dana Dabiri
+  
+* Grader (Jan, 2019 - Jun, 2019)
+  * University of Washington
+  * Duties included: Evaluated homework and exams for Compressible and Incompressible Aerodynamics classes
+  * Supervisor: Professor Jinkyu Yang
+
+* Assistant Technician (Oct, 2016 - May, 2017)
+  * Taipei City Government
+  * Duties included: Procurement and inspection
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Product Design  
+  * CAD (Solidworks, AutoCAD, Catia)
+  * Six Sigma
+  * Failure Mode & Evffect Analysis (FMEA)
+* Finite Element Anlysis (FEA)
+  * CAE tool (Abaqus, Ansys)
+  * Static and kinematic simulation
+  * Vibration and thermal simulation
+* Programming
+  * Python, Matlab, C++  
+  * Data processing (SQL, Excel VBA)
+* Prototyping
+  * 3D printer
+  * Laser cutter
+  * GD&T
+* Language
+  * Mandairin
+  * Japanese
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -56,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer Instructor for teaching fluid mechanics in the FE prep course 
