@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, National Taiwan University, Jan, 2015
-* M.S. in Mechanical Engineering, University of University, Dec, 2019
-* Exchange Program in School of Automotive Studies , Ton-Ji University, Jan, 2015
+* B.S. in Mechanical Engineering, National Taiwan University,  Sep, 2011 -Jun, 2015
+* M.S. in Mechanical Engineering, University of University,  Sep, 2017 - Dec, 2019
+* Exchange Program in School of Automotive Studies , Ton-Ji University,  Sep, 2014 - Jan, 2015
 
 Work experience
 ======
