@@ -56,6 +56,8 @@ Skills
 * Language
   * Mandairin
   * Japanese
+  
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
