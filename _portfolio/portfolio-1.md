@@ -1,6 +1,6 @@
 ---
 title: "Master's Thesis"
-excerpt: "Achieving Damage Tolerance via Inhomogeneity and Nonlocality through Ultra-Cellular Material<br/><img src='/images/UCMprototype.png'>"
+excerpt: "Achieving Damage Tolerance via Inhomogeneity and Nonlocality through Ultra-Cellular Material<br/><img src='/images/UCMprototype.PNG'>"
 collection: portfolio
 ---
 
