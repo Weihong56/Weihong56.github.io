@@ -4,7 +4,7 @@ collection: teaching
 type: "Cram School "
 permalink: /teaching/2013-tutor-teaching
 venue: "Cram School"
-date: 2013
+date: 2013-02-01
 location: "Taipei, Taiwan"
 ---
 
