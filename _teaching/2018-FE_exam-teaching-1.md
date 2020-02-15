@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Volunteer Instructor"
 collection: teaching
 type: "Prep course of Fundamental Engineering Exam"
 permalink: /teaching/2018-FE_exam-teaching-1
