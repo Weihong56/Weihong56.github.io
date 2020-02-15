@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Prep course of Fundamental Engineering Exam"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2018-FE_exam-teaching-1
 venue: "University of Washington, Department of Mechanical Engineering"
 date: 2018-02-27
 location: "Seattle, Unite State"
