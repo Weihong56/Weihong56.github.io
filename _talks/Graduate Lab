@@ -1,0 +1,10 @@
+---
+title: "Multi-axial Fatigue Testnig on Composite"
+venue: "Lab for Multiscale Analysis of Material and Structures, University of Washington"
+date: 2018-03  
+location: "Seattle, Washington"
+---
+
+• Printed out molds using a 3D printer with G-code modification for manufacturing specimens 
+• Conducted fatigue tests on epoxy and multiaxial fatigue tests on composite materials with a central crack
+• Implemented a parameter study using DOE to determine the configuration of specimen to avoid buckling under compression and safe time cost by 60%
