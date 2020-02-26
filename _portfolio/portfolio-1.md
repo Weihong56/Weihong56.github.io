@@ -4,8 +4,8 @@ excerpt: "Achieving Damage Tolerance via Inhomogeneity and Nonlocality through U
 collection: portfolio
 ---
 
-Description:
-Engineers desire a light but strong material, which can be possibily achieved through engineered cellular materias. These materials are featured by their weight efficiency wihch can extend the range of material potential. Their application can be seemm in many industries including aerospace and automotive industry.  However, production like cars, air-planes or wind turbine where the cellular lattices are used could suffer impact or severe loads and then fracture destructively. To prevent such accident, it is promissing to find a scheme to toughen the lattices.        
+
+Engineers desire a light but strong material, which can be possibily achieved through engineering cellular materials. These materials are featured by their weight efficiency wihch can extend the range of material potential. Their application can be seem in many industries including aerospace, automotive and technology industry.  However, production like cars, air-planes or wind turbine where the cellular lattices are used could suffer impact or severe loads and then fracture destructively. To prevent such accident, it is promissing to find a scheme to toughen the lattices.        
 
 To achieve this goal, two concepts are explored in this work: (1) non-locality realized by combining lattices featuring multiple length scales and (2) inhomogeneity which is achieved by combining strentch and bending dominated lattices. This new type of cellular material is called here Ultra-Cellular Material (UCM). It combines two or more representative periodic structures characterized by their topologies along with multiple characteristic length scales. UCMs are designed to improve the fracturing behavior compared to conventional cellular materials while maintaining a good balance between stiﬀness, strength, and toughness. 
 
