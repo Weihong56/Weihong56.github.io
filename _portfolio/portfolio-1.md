@@ -14,9 +14,9 @@ In this study, a finite element model is developed to research the fracture beha
 <h6>Objective</h6>
 <img src='/images/ObjectiveUCM.png'>
 <h6>Idea of UCM</h6>
-<img src='/images/idea_of_UCM.png' width="600" height="350" />
+<img src='/images/idea_of_UCM.png' width="600" height="250" />
 <h6>Process</h6>
-<img src='/images/processUCM.png' width="600" height="350" />
+<img src='/images/processUCM.png' width="600" height="250" />
 <h6>Comparison of countour polt </h6>
 <img src='/images/contourplotUCM.png' width="600" height="400" />
 <h6>Load-Displacement curve</h6>
