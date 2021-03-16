@@ -17,7 +17,11 @@ Education
 
 Work Experience
 ======
-* Graduate Researcher (Mar, 2018 - Present)
+* Project Engineer (Jun, 2020 - Present)
+  * Bizlink Tech
+  * Duties included: Validated OEM customer’s drawings and BOMs, and provided DFM based on component compatibility, product function and manufacturability for automotive (high/low-voltage) wiring harness  
+                     Coordinated with Quotation Engineers, Sourcing and Customers in the quoting process for new product introduction (NPI) projects (Tesla, FCA, Harley-Davidson, etc.)
+* Graduate Researcher (Mar, 2018 - Jun, 2020)
   * University of Washington
   * Duties included: Manufacturing and fatigue testing on composites 
                      Conducted simulations for fracture behavior and tensile testing 
